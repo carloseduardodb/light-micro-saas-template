@@ -1,6 +1,6 @@
 {
-  "name": "DigiPay",
-  "short_name": "DigiPay",
+  "name": "Light Micro SaaS Template",
+  "short_name": "Light Micro SaaS Template",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

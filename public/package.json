@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "digipay",
+  "name": "light-micro-saas-template",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
