@@ -6,7 +6,7 @@ import { AppController } from './presentation/controllers/app.controller';
 @Module({
   imports: [
     ServeStaticModule.forRoot({
-      rootPath: join(__dirname, '..', 'public/build'),
+      rootPath: join(__dirname, '..', 'public/dist'),
     }),
   ],
   controllers: [AppController],
