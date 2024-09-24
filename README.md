@@ -1,4 +1,4 @@
-# MicroSaaS Template with NestJS and Preact
+# MicroSaaS Template with NestJS and Vite + Preact
 
 This template is designed to provide a solid foundation for building **MicroSaaS** applications, combining the power of a **NestJS** backend with an integrated **Preact** frontend. While it's tailored specifically for microservice-oriented SaaS projects, it includes key elements that allow for scaling if necessary, especially when following best practices for file storage and management.
 
